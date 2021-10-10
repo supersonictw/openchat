@@ -1,5 +1,5 @@
-# LINE 社群列表
+# Taiwan Web Technology Promote - OpenChat
 
-- [資訊安全&程式設計&Web技術 研究社群](hub/research)
-- [LINE Developers](hub/line_dev)
-- [PHP Taiwan](hub/php_tw)
+> 本列表為 [臺灣網際網路技術推廣組織 @web-tech-tw](https://github.com/web-tech-tw) 持有。
+
+本儲存庫已移動至 [@web-tech-tw/openchat](https://github.com/web-tech-tw/openchat) 。
